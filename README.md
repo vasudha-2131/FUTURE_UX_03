@@ -25,7 +25,7 @@ Nexus CRM centralizes the agency lifecycle into a highly structured ecosystem. B
 
 ### Screen 0: Secure Portal Access (Login)
 * **Design Strategy:** Built using a modern $50/50$ asymmetric split-screen layout. The left pane reinforces company branding with a clean geometric anchor logo and value statement over a corporate gradient. The right pane prioritizes user focus with an isolated white interaction card.
-* **UX Highlights:** Forms leverage strict container input borders with optimal placeholder micro-copy padding (`16px`) and explicit high-contrast authentication call-to-actions alongside alternative secure single-sign-on (SSO) options.
+* **UX Highlights:** Forms leverage strict container input borders with optimal placeholder micro-copy padding and explicit high-contrast authentication call-to-actions alongside alternative secure single-sign-on (SSO) options.
 
 ### Screen 1: The Sales Cockpit (Lead Pipeline)
 * **Design Strategy:** Designed as a 4-stage Kanban layout matching standard agency conversion funnels (`New Leads`, `Contacted`, `Proposal Sent`, and `Won`).
